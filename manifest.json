@@ -1,0 +1,7 @@
+{
+    "name": "PlanetwidePlanetaryShieldGenerator",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/lltcggie/DSP_PlanetwidePlanetaryShieldGenerator",
+    "description": "Extend the range of the Planetary Shield Generator across planetwide.",
+    "dependencies": ["xiaoye97-BepInEx-5.4.17"]
+}
